@@ -17,7 +17,7 @@ git clone https://github.com/CristianGiVi/Prueba-tecnica-SUMIMEDICAL
 2. Accede al directorio donde se clono la aplicacion.
 
 ```bash
-cd <nombre_del_directorio>
+cd Prueba-tecnica-SUMIMEDICAL
 ```
 
 3. Ejecuta:
