@@ -11,7 +11,7 @@ Este repositorio contiene un docker-compose.yml para facilitar el despliegue de 
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone <url_del_repositorio>
+git clone https://github.com/CristianGiVi/Prueba-tecnica-SUMIMEDICAL
 ```
 
 2. Accede al directorio donde se clono la aplicacion.
