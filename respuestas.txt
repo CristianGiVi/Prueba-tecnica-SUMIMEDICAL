@@ -1,0 +1,10 @@
+1. El proposito principal del archivo .env es el de almacenar variables de manera global en toda la aplicacion. 
+Las variables que almacena son variables que contienen informacion sensible usada para el desarrollo de la 
+aplicacion.
+
+2. Las migraciones en Laravel permiten editar la estrucutra de una base de datos almacenando el historial de
+cambios de la misma, mientras que los seeders funcionan para llenar la base de datos con datos de prueba.
+
+3. Eloquent ORM, como se dice en su nombre, es una capa de abstraccion que facilita la interacccion con las
+bases de datos relaciones al suplir la necesidad de escribir consultas SQL.
+
